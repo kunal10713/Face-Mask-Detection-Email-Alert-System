@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
 
 from keras.models import load_model
@@ -82,7 +81,7 @@ cv2.destroyAllWindows()
 vid_source.release()
 
 
-# In[ ]:
+
 
 
 
