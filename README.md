@@ -6,7 +6,9 @@
 ## Live Video of Face Mask Detection
 
 <div align="center">
+  
 ![alt-text](https://github.com/kunal10713/Face-Mask-Detection-Email-Alert-System/blob/main/static/video.gif)
+  
 </div>
 
 <div align="center">
