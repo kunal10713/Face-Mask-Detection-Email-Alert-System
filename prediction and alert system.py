@@ -65,8 +65,8 @@ while(True):
             mail = smtplib.SMTP('smtp.gmail.com', 587)
             mail.ehlo()
             mail.starttls()
-            mail.login('10713kunal@gmail.com','Apple@10713')
-            mail.sendmail('10713kunal@gmail.com','10713kunal@gmail.com',message)
+            mail.login('[YOUR_EMAIL_ID], '[YOUR_PASSWORD] ')
+            mail.sendmail('[YOUR_EMAIL_ID]','[YOUR_EMAIL_ID]',message)
             mail.close
         else:
             pass
