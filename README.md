@@ -14,7 +14,7 @@
 <div align="center">
   
 ## Model Architecture
-<img src="https://github.com/venugopalkadamba/Face_Emotion_Recognition/blob/master/model.png" />
+<img src="https://github.com/kunal10713/Face-Mask-Detection-Email-Alert-System/blob/main/static/model.PNG" />
 </div>
 
 <div align="center">
