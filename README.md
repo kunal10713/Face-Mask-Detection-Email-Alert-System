@@ -10,10 +10,10 @@
 ![alt-text](https://github.com/kunal10713/Face-Mask-Detection-Email-Alert-System/blob/main/static/video.gif)
   
 </div>
+## Model Architecture
 
 <div align="center">
   
-## Model Architecture
 <img src="https://github.com/kunal10713/Face-Mask-Detection-Email-Alert-System/blob/main/static/model.PNG" />
 </div>
 
